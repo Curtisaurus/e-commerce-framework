@@ -7,11 +7,11 @@ This application utilises node, express, MySQL database, mysql2 module, and and 
 ## Demos
 The following walkthrough videos display the application setup and functionality:
 
-[Creating and seeding schema/database](link1)
+[Creating and seeding schema/database](https://drive.google.com/file/d/1Mj25f6lB3LU7sJRi0X4-QoJ6KKJ5KaJu/view)
 
-[GET method for all api routes](link2)
+[GET method for all api routes](https://drive.google.com/file/d/1RTZ0JIfAFGe6XoOh5tDTDnCTvKt-blWc/view)
 
 Creating, Updating, and Deleting:
-- [Product routes](link3)
-- [Tag routes](link4)
-- [Category routes](link5)
+- [Product routes](https://drive.google.com/file/d/1pyR2hmuk9EUagJgrjBYugZ1zv8kx2vC3/view)
+- [Tag routes](https://drive.google.com/file/d/1fZRWn7zEfnSzhhohY8sMdSbpDuaibJuG/view)
+- [Category routes](https://drive.google.com/file/d/19D67LT99Lmaqi-3ObiqeCInyrXPoxFoo/view)
